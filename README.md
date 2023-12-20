@@ -1,5 +1,3 @@
-![mobile (1)](https://github.com/Ajith101/task-1-dashboard/assets/41799543/d41fbed1-fed7-4e64-beee-8a54faade626)
-![mobile](https://github.com/Ajith101/task-1-dashboard/assets/41799543/020b2da9-9484-4408-8f2d-3b1614d427e7)
 ![pc](https://github.com/Ajith101/task-1-dashboard/assets/41799543/79866e76-6c92-4cc7-b87a-107fb0ab4058)
 
 # React Dashboard App
@@ -66,3 +64,6 @@ This will launch the app in development mode. Open [http://localhost:5173](http:
 
 - React: A JavaScript library for building user interfaces.
 - Tailwind: A CSS framework for responsive and modern UI design.
+
+![mobile (1)](https://github.com/Ajith101/task-1-dashboard/assets/41799543/d41fbed1-fed7-4e64-beee-8a54faade626)
+![mobile](https://github.com/Ajith101/task-1-dashboard/assets/41799543/020b2da9-9484-4408-8f2d-3b1614d427e7)

@@ -1,6 +1,6 @@
 import { FaPuzzlePiece, FaQuestion } from "react-icons/fa";
 import { MdDashboard, MdOutlineContactMail } from "react-icons/md";
-import { PiFlowerTulipDuotone } from "react-icons/Pi";
+import { BsFlower2 } from "react-icons/bs";
 
 export const navigationLinks = [
   {
@@ -11,7 +11,7 @@ export const navigationLinks = [
   {
     title: "Perks",
     link: "/perks",
-    icon: <PiFlowerTulipDuotone size={25} />,
+    icon: <BsFlower2 size={25} />,
   },
   {
     title: "Addons",
